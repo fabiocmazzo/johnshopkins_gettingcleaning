@@ -11,7 +11,7 @@ This script collects a data from  "Human Activity Recognition Using Smartphones 
  
 ## Requirements 
  
-- R language (tested em 3.10 version)
+- R language (tested in 3.10 version)
 - SQLDF Package (http://cran.r-project.org/package=sqldf)
 - The dataset files should be in same format and directory structure in working directory.
 
