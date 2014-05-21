@@ -79,7 +79,7 @@ CodeBook
 
   ## Source variables
   
-  Script uses this variables from original dataset to make a tidy data set:
+  Script uses this variables from original dataset and apply avg to make a tidy data set:
   
 -	 tBodyAcc-mean()-X
 -	 tBodyAcc-mean()-Y
