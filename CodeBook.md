@@ -1,2 +1,73 @@
 CodeBook
-########
+========
+
+## Variables in generated tidy data set:
+    
+ - subject 
+ - activity
+ - tbodyaccstdxavg
+ - tbodyaccstdyavg
+ - tbodyaccstdzavg
+ - tgravityaccstdxavg
+ - tgravityaccstdyavg
+ - tgravityaccstdzavg
+ - tbodyaccjerkstdxavg
+ - tbodyaccjerkstdyavg
+ - tbodyaccjerkstdzavg
+ - tbodygyrostdxavg
+ - tbodygyrostdyavg
+ - tbodygyrostdz
+ - tbodygyrojerkstdxavg
+ - tbodygyrojerkstdyavg
+ - tbodygyrojerkstdzavg
+ - tbodyaccmagstdavg
+ - tgravityaccmagstdavg
+ - tbodyaccjerkmagstdavg
+ - tbodygyromagstdavg
+ - tbodygyrojerkmagstdavg
+ - fbodyaccstdxavg
+ - fbodyaccstdyavg
+ - fbodyaccstdzavg
+ - fbodyaccjerkstdxavg
+ - fbodyaccjerkstdyavg
+ - fbodyaccjerkstdzavg
+ - fbodygyrostdxavg
+ - fbodygyrostdyavg
+ - fbodygyrostdzavg
+ - fbodyaccmagstdavg
+ - fbodybodyaccjerkmagstdavg
+ - fbodybodygyromagstdavg
+ - fbodybodygyrojerkmagstdavg
+ - tbodyaccmeanxavg
+ - tbodyaccmeanyavg
+ - tbodyaccmeanzavg
+ - tgravityaccmeanxavg
+ - tgravityaccmeanyavg
+ - tgravityaccmeanzavg
+ - tbodyaccjerkmeanxavg
+ - tbodyaccjerkmeanyavg
+ - tbodyaccjerkmeanzavg
+ - tbodygyromeanxavg
+ - tbodygyromeanyavg
+ - tbodygyromeanzavg
+ - tbodygyrojerkmeanxavg
+ - tbodygyrojerkmeanyavg
+ - tbodygyrojerkmeanzavg
+ - tbodyaccmagmeanavg
+ - tgravityaccmagmeanavg
+ - tbodyaccjerkmagmeanavg
+ - tbodygyromagmeanavg
+ - tbodygyrojerkmagmeanavg
+ - fbodyaccmeanxavg
+ - fbodyaccmeanyavg
+ - fbodyaccmeanzavg
+ - fbodyaccjerkmeanxavg
+ - fbodyaccjerkmeanyavg
+ - fbodyaccjerkmeanzavg
+ - fbodygyromeanxavg
+ - fbodygyromeanyavg
+ - fbodygyromeanzavg
+ - fbodyaccmagmeanavg
+ - fbodybodyaccjerkmagmeanavg
+ - fbodybodygyromagmeanavg
+ - fbodybodygyrojerkmagmeanavg
