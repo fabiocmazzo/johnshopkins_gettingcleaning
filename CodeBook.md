@@ -9,72 +9,73 @@ CodeBook
     
  - subject: subject number
  - activity: activity description    
- - tbodyaccstdxavg: Average of  variable
- - tbodyaccstdyavg: Average of  variable
- - tbodyaccstdzavg: Average of  variable
- - tgravityaccstdxavg: Average of  variable
- - tgravityaccstdyavg: Average of  variable
- - tgravityaccstdzavg: Average of  variable
- - tbodyaccjerkstdxavg: Average of  variable
- - tbodyaccjerkstdyavg: Average of  variable
- - tbodyaccjerkstdzavg: Average of  variable
- - tbodygyrostdxavg: Average of  variable
- - tbodygyrostdyavg: Average of  variable
- - tbodygyrostdz: Average of  variable
- - tbodygyrojerkstdxavg: Average of  variable
- - tbodygyrojerkstdyavg: Average of  variable
- - tbodygyrojerkstdzavg: Average of  variable
- - tbodyaccmagstdavg: Average of  variable
- - tgravityaccmagstdavg: Average of  variable
- - tbodyaccjerkmagstdavg: Average of  variable
- - tbodygyromagstdavg: Average of  variable
- - tbodygyrojerkmagstdavg: Average of  variable
- - fbodyaccstdxavg: Average of  variable
- - fbodyaccstdyavg: Average of  variable
- - fbodyaccstdzavg: Average of  variable
- - fbodyaccjerkstdxavg: Average of  variable
- - fbodyaccjerkstdyavg: Average of  variable
- - fbodyaccjerkstdzavg: Average of  variable
- - fbodygyrostdxavg: Average of  variable
- - fbodygyrostdyavg: Average of  variable
- - fbodygyrostdzavg: Average of  variable
- - fbodyaccmagstdavg: Average of  variable
- - fbodybodyaccjerkmagstdavg: Average of  variable
- - fbodybodygyromagstdavg: Average of  variable
- - fbodybodygyrojerkmagstdavg: Average of  variable
- - tbodyaccmeanxavg: Average of  variable
- - tbodyaccmeanyavg: Average of  variable
- - tbodyaccmeanzavg: Average of  variable
- - tgravityaccmeanxavg: Average of  variable
- - tgravityaccmeanyavg: Average of  variable
- - tgravityaccmeanzavg: Average of  variable
- - tbodyaccjerkmeanxavg: Average of  variable
- - tbodyaccjerkmeanyavg: Average of  variable
- - tbodyaccjerkmeanzavg: Average of  variable
- - tbodygyromeanxavg: Average of  variable
- - tbodygyromeanyavg: Average of  variable
- - tbodygyromeanzavg: Average of  variable
- - tbodygyrojerkmeanxavg: Average of  variable
- - tbodygyrojerkmeanyavg: Average of  variable
- - tbodygyrojerkmeanzavg: Average of  variable
- - tbodyaccmagmeanavg: Average of  variable
- - tgravityaccmagmeanavg: Average of  variable
- - tbodyaccjerkmagmeanavg: Average of  variable
- - tbodygyromagmeanavg: Average of  variable
- - tbodygyrojerkmagmeanavg: Average of  variable
- - fbodyaccmeanxavg: Average of  variable
- - fbodyaccmeanyavg: Average of  variable
- - fbodyaccmeanzavg: Average of  variable
- - fbodyaccjerkmeanxavg: Average of  variable
- - fbodyaccjerkmeanyavg: Average of  variable
- - fbodyaccjerkmeanzavg: Average of  variable
- - fbodygyromeanxavg: Average of  variable
- - fbodygyromeanyavg: Average of  variable
- - fbodygyromeanzavg: Average of  variable
- - fbodyaccmagmeanavg: Average of  variable
- - fbodybodyaccjerkmagmeanavg: Average of  variable
- - fbodybodygyromagmeanavg: Average of  variable
- - fbodybodygyrojerkmagmeanavg: Average of  variable
+ - tbodyaccstdxavg: average of tBodyAcc-std()-X variable
+ - tbodyaccstdyavg: average of tBodyAcc-std()-Y variable
+ - tbodyaccstdzavg: average of tBodyAcc-std()-Z variable
+ - tgravityaccstdxavg: average of tGravityAcc-std()-X variable
+ - tgravityaccstdyavg: average of tGravityAcc-std()-Y variable
+ - tgravityaccstdzavg: average of tGravityAcc-std()-Z variable
+ - tbodyaccjerkstdxavg: average of tBodyAccJerk-std()-X variable
+ - tbodyaccjerkstdyavg: average of tBodyAccJerk-std()-Y variable
+ - tbodyaccjerkstdzavg: average of tBodyAccJerk-std()-Z variable
+ - tbodygyrostdxavg: average of tBodyGyro-std()-X variable
+ - tbodygyrostdyavg: average of tBodyGyro-std()-Y variable
+ - tbodygyrostdz: average of tBodyGyro-std()-Z variable
+ - tbodygyrojerkstdxavg: average of tBodyGyroJerk-std()-X variable
+ - tbodygyrojerkstdyavg: average of tBodyGyroJerk-std()-Y variable
+ - tbodygyrojerkstdzavg: average of tBodyGyroJerk-std()-Z variable
+ - tbodyaccmagstdavg: average of tBodyAccMag-std() variable
+ - tgravityaccmagstdavg: average of tGravityAccMag-std() variable
+ - tbodyaccjerkmagstdavg: average of tBodyAccJerkMag-std() variable
+ - tbodygyromagstdavg: average of tBodyGyroMag-std() variable
+ - tbodygyrojerkmagstdavg: average of tBodyGyroJerkMag-std() variable
+ - fbodyaccstdxavg: average of fBodyAcc-std()-X variable
+ - fbodyaccstdyavg: average of fBodyAcc-std()-Y variable
+ - fbodyaccstdzavg: average of fBodyAcc-std()-Z variable
+ - fbodyaccjerkstdxavg: average of fBodyAccJerk-std()-X variable
+ - fbodyaccjerkstdyavg: average of fBodyAccJerk-std()-Y variable
+ - fbodyaccjerkstdzavg: average of fBodyAccJerk-std()-Z variable
+ - fbodygyrostdxavg: average of fBodyGyro-std()-X variable
+ - fbodygyrostdyavg: average of fBodyGyro-std()-Y variable
+ - fbodygyrostdzavg: average of fBodyGyro-std()-Z variable
+ - fbodyaccmagstdavg: average of fBodyAccMag-std() variable
+ - fbodybodyaccjerkmagstdavg: average of fBodyBodyAccJerkMag-std() variable
+ - fbodybodygyromagstdavg: average of fBodyBodyGyroMag-std() variable
+ - fbodybodygyrojerkmagstdavg: average of fBodyBodyGyroJerkMag-std() variable
+ - tbodyaccmeanxavg: average of tBodyAcc-mean()-X variable
+ - tbodyaccmeanyavg: average of tBodyAcc-mean()-Y variable
+ - tbodyaccmeanzavg: average of tBodyAcc-mean()-Z variable
+ - tgravityaccmeanxavg: average of tGravityAcc-mean()-X variable
+ - tgravityaccmeanyavg: average of tGravityAcc-mean()-Y variable
+ - tgravityaccmeanzavg: average of tGravityAcc-mean()-Z variable
+ - tbodyaccjerkmeanxavg: average of tBodyAccJerk-mean()-X variable
+ - tbodyaccjerkmeanyavg: average of tBodyAccJerk-mean()-Y variable
+ - tbodyaccjerkmeanzavg: average of tBodyAccJerk-mean()-Z variable
+ - tbodygyromeanxavg: average of tBodyGyro-mean()-X variable
+ - tbodygyromeanyavg: average of tBodyGyro-mean()-Y variable
+ - tbodygyromeanzavg: average of tBodyGyro-mean()-Z variable
+ - tbodygyrojerkmeanxavg: average of tBodyGyroJerk-mean()-X variable
+ - tbodygyrojerkmeanyavg: average of tBodyGyroJerk-mean()-Y variable
+ - tbodygyrojerkmeanzavg: average of tBodyGyroJerk-mean()-Z variable
+ - tbodyaccmagmeanavg: average of tBodyAccMag-mean() variable
+ - tgravityaccmagmeanavg: average of tGravityAccMag-mean() variable
+ - tbodyaccjerkmagmeanavg: average of tBodyAccJerkMag-mean() variable
+ - tbodygyromagmeanavg: average of tBodyGyroMag-mean() variable
+ - tbodygyrojerkmagmeanavg: average of tBodyGyroJerkMag-mean() variable
+ - fbodyaccmeanxavg: average of fBodyAcc-mean()-X variable
+ - fbodyaccmeanyavg: average of fBodyAcc-mean()-Y variable
+ - fbodyaccmeanzavg: average of fBodyAcc-mean()-Z variable
+ - fbodyaccjerkmeanxavg: average of fBodyAccJerk-mean()-X variable
+ - fbodyaccjerkmeanyavg: average of fBodyAccJerk-mean()-Y variable
+ - fbodyaccjerkmeanzavg: average of fBodyAccJerk-mean()-Z variable
+ - fbodygyromeanxavg: average of fBodyGyro-mean()-X variable
+ - fbodygyromeanyavg: average of fBodyGyro-mean()-Y variable
+ - fbodygyromeanzavg: average of fBodyGyro-mean()-Z variable
+ - fbodyaccmagmeanavg: average of fBodyAccMag-mean() variable
+ - fbodybodyaccjerkmagmeanavg: average of fBodyBodyAccJerkMag-mean() variable
+ - fbodybodygyromagmeanavg: average of fBodyBodyGyroMag-mean() variable
+ - fbodybodygyrojerkmagmeanavg: average of fBodyBodyGyroJerkMag-mean() variable
+
 
   ## Source variables
   
