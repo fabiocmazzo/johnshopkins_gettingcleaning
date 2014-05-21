@@ -76,7 +76,7 @@ CodeBook
  - fbodybodygyromagmeanavg: average of fBodyBodyGyroMag-mean() variable
  - fbodybodygyrojerkmagmeanavg: average of fBodyBodyGyroJerkMag-mean() variable
 
-  ## Transformations
+ ## Transformations
   
   Script read files from original dataset, merge data and apply average function grouping by subject and activity, the original files are:
   
@@ -89,7 +89,7 @@ CodeBook
 - /train/X_train.txt
  
 
-  ## Source variables
+ ## Source variables
   
   Script uses this variables from original dataset and apply avg to make a tidy data set:
   
